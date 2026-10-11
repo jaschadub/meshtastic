@@ -27,7 +27,7 @@ Turn on your Meshtastic radio. Most devices show a splash screen and begin broad
 
 The connection indicator turns green when the radio is paired and communicating.
 
-> **Tip:** If your device does not appear, make sure Bluetooth is enabled in iOS Settings and that the radio is within range (roughly 10 metres for initial pairing).
+> **Tip:** If your device does not appear, make sure Bluetooth is enabled in iOS Settings and that the radio is within range (roughly 10 meters for initial pairing).
 
 ### First-Launch Setup
 
@@ -37,7 +37,7 @@ The first time you open the app, a short guided setup walks you through the perm
 
 ![Bluetooth permission screen](/img/apple/onboarding_bluetooth.webp)
 
-**2. Local Network** — lets the app find radios connected over WiFi or Ethernet.
+**2. Local Network** — lets the app find radios connected over Wi-Fi or Ethernet.
 
 ![Local Network permission screen](/img/apple/onboarding_localNetwork.webp)
 

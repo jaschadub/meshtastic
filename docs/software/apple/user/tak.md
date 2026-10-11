@@ -29,11 +29,11 @@ The full TAK V2 wire format (shapes, routes, markers, casevac, emergency) requir
 
 ## TAK Server Screen
 
-**Settings → TAK Server** is the single destination for everything TAK-related. The screen is organised top-to-bottom so you can configure your identity, start the server, and pair an ATAK / iTAK client in one pass.
+**Settings → TAK Server** is the single destination for everything TAK-related. The screen is organized top-to-bottom so you can configure your identity, start the server, and pair an ATAK / iTAK client in one pass.
 
 ### TAK Identity
 
-The first section, **TAK Identity**, controls the firmware-level team and role identity the radio attaches to every position report:
+The first section, **TAK Identity**, controls the firmware-level team and role identity the radio attaches to every position report. It appears only on firmware **2.8.0 or later**, which is where the radio began reading its TAK configuration. On older firmware the section is hidden, because the radio would ignore anything set there. The rest of the screen still works: TAK traffic falls back to the legacy format described above.
 
 | Setting | Description |
 |---------|-------------|
