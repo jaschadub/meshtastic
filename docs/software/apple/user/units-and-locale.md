@@ -50,13 +50,14 @@ Distances between nodes and GPS altitudes are transmitted as **meters** and auto
 | Metric | 350 m | 2.5 km | 1,200 m |
 | Imperial (US) | 1,148 ft | 1.6 mi | 3,937 ft |
 
-The app uses natural scaling — short distances stay in meters or feet, while longer distances switch to kilometres or miles automatically.
+The app uses natural scaling — short distances stay in meters or feet, while longer distances switch to kilometers or miles automatically.
 
 ### Where these appear
 
 - **Node list** — distance and bearing to each node
 - **Node detail** — altitude, distance from your position
-- **Map** — waypoint distances, trace route hop distances
+- **Map** — waypoint distances
+- **Trace route timeline** — the length of each hop
 - **Compass** — distance to selected node
 - **Altitude chart** — Y-axis labels adapt to your locale
 
